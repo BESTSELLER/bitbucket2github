@@ -15,5 +15,5 @@
 
 ### You just call it like so:
 ```bash
-./migrate.sh repo1 repo2 repo3
+./migrate.sh "repo1" "repo2" "repo3"
 ```
