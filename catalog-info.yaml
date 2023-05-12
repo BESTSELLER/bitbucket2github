@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: bitbucket2github
+  description: Script used when we migrated from Bitbucket to GitHub
+  annotations: 
+    github.com/project-slug: BESTSELLER/bitbucket2github
+spec:
+  type: service
+  lifecycle: deprecated
+  owner: engineering-services
